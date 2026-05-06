@@ -53,13 +53,13 @@ This application allows users to:
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshots/Screenshot 1.png)
+![Screenshot 1](Screenshots/Screenshot 1.png)
 
-![Screenshot 2](screenshots/Screenshot 2.png)
+![Screenshot 2](Screenshots/Screenshot 2.png)
 
-![Screenshot 3](screenshots/Screenshot 3.png)
+![Screenshot 3](Screenshots/Screenshot 3.png)
 
-![Screenshot 4](screenshots/Screenshot 4.png)
+![Screenshot 4](Screenshots/Screenshot 4.png)
 
 ---
 

@@ -51,18 +51,6 @@ This application allows users to:
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot 1](Screenshots/Screenshot 1.png)
-
-![Screenshot 2](Screenshots/Screenshot 2.png)
-
-![Screenshot 3](Screenshots/Screenshot 3.png)
-
-![Screenshot 4](Screenshots/Screenshot 4.png)
-
----
-
 ## 🤖 AI Integration
 
 We use **Google Gemini AI** to provide an intelligent assistant that answers user queries such as:

@@ -51,6 +51,14 @@ This application allows users to:
 
 ---
 
+## 🎥 Demo Video
+
+Watch the working of the AI Fairness Analyzer here:
+
+👉 [Watch Demo Video](https://drive.google.com/file/d/1QwqHREpHb-S6chyuEB1VbP4ur4QqeDFd/view?usp=sharing)
+
+---
+
 ## 🤖 AI Integration
 
 We use **Google Gemini AI** to provide an intelligent assistant that answers user queries such as:

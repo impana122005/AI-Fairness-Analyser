@@ -1,9 +1,12 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
+from dotenv import load_dotenv
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBrnsGQtdFtrpcuFdMOVNq9U31MrDhHWNY")
+load_dotenv()
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 model = genai.GenerativeModel("gemini-2.0-flash")
 
